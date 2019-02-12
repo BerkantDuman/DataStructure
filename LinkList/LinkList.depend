@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527087780 source:/home/berkant/ders/C/LinkList/main.c
+	<stdio.h>
+	<stdlib.h>
+

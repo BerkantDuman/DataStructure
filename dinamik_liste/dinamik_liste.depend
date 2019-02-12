@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537896643 source:/home/berkant/Desktop/dinamik_liste/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537903065 source:/home/berkant/ders/C/dinamik_liste/main.c
+	<stdio.h>
+	<stdlib.h>
+

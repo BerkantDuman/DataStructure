@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538053180 source:/home/berkant/ders/C/dinamik_2boyutlu/main.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
